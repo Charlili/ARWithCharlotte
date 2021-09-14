@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="maze-target" size="1.000000 1.125000" />
+    <ImageTarget name="demeir-vanbredael_scaled" size="10.000000 6.942857" />
+    <ImageTarget name="BreughelBouquet_scaled" size="1.000000 1.304459" />
+    <ImageTarget name="1-10DewatervalvandeAnieneinTivoli_scaled" size="1.000000 0.831055" />
+  </Tracking>
+</QCARConfig>
